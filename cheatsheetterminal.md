@@ -14,9 +14,9 @@
 
 - ordre : user/group/all
 - types :   
-r : lire  
-w : ecrire  
-x : executer  
+ - r : lire  
+ - w : ecrire  
+ - x : executer  
 - modifier les permissions : chmod
 
 ## _répertoire_ ##
