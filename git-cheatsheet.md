@@ -1,10 +1,10 @@
- # _cheatsheetgit.md_ #  
+ # _cheatsheetgit.md_   
   
-  ## _Installation_ ##  
+  ## _Installation_   
   
    - Pour vérifier si on a installé Git dans le Terminal, tapez :` git –version`
 
-  ## _Créer un nouveau projet et initialiser Git_## :
+  ## _Créer un nouveau projet et initialiser Git_:
    
    - Créer un nouveau dossier : `mkdir` nomdudossier
    - `cd` nomdudossier
