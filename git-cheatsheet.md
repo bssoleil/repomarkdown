@@ -6,11 +6,11 @@
 
   ## _Créer un nouveau projet et initialiser Git_:
    
--` git init` : pour créer un nouveau dépôt GIT
--` git status` : affiche la liste des fichiers modifiés ainsi que les fichiers qui doivent encore être ajoutés ou validés.
-- Ouvrir le dossier et créer un nouveau fichier, puis ajouter un peu de contenu :
-- Créer un nouveau ficher : `touch` nomdufichier
-- `ls -lh` (pour voir les fichier et les droits) *optionnel*
++ `git init` : pour créer un nouveau dépôt GIT
++ `git status` : affiche la liste des fichiers modifiés ainsi que les fichiers qui doivent encore être ajoutés ou validés.
++ Ouvrir le dossier et créer un nouveau fichier, puis ajouter un peu de contenu :
++ Créer un nouveau ficher : `touch` nomdufichier
++ `ls -lh` (pour voir les fichier et les droits) *optionnel*
 
 `git status` : affiche la liste des fichiers modifiés ainsi que les fichiers qui doivent encore être ajoutés ou validés
 `git add nomdufichier`: pour ajouter des fichiers à l'index
